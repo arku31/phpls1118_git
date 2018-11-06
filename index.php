@@ -4,4 +4,6 @@
 33333
 sdfsfsdf
 asdasdasd
-Ctrl+K
+(cmd)Ctrl+K
+(Ctrl)Cmd+shift+K
+aa
